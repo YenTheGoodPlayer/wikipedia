@@ -7,14 +7,14 @@
 
 /* Add a black background color to the top navigation */
 .topnav {
-    background-color: white;
+    background-color: orangered;
     overflow: hidden;
   }
   
   /* Style the links inside the navigation bar */
   .topnav a {
     float: left;
-    color: black;
+    color: orangered;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -23,14 +23,14 @@
   
   /* Change the color of links on hover */
   .topnav a:hover {
-    background-color: white;
-    color: white;
+    background-color: orangered;
+    color: orangered;
   }
   
   /* Add a color to the active/current link */
   .topnav a.active {
-    background-color: grey;
-    color: white;
+    background-color: orangered;
+    color: orangered;
   }
 
   /* ul {
@@ -95,7 +95,7 @@
 .topnav {
   
   overflow: hidden;
-  background-color: white;
+  background-color: orangered;
 }
 
 /* Navbar links */
@@ -103,7 +103,7 @@
   /* position: fixed; */
   float: left;
   display: block;
-  color: #f2f2f2;
+  color: orangered;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -111,8 +111,8 @@
 
 /* Links - change color on hover */
 .topnav a:hover {
-  background-color: #ddd;
-  color: black;
+  background-color: orangered;
+  color: orangered;
 }
 
 /* Create three equal columns that float next to each other */
@@ -167,14 +167,14 @@ body {
   position: sticky;
   top: 0;
   overflow: hidden;
-  background-color: black;
+  background-color: orangered;
 }
 
 /* Navbar links */
 #navbar a {
   float: left;
   display: block;
-  color: #f2f2f2;
+  color: orangered;
   text-align: center;
   padding: 14px;
   text-decoration: none;
@@ -187,14 +187,14 @@ body {
 /* Style the top navigation bar */
 .topnav {
   overflow: hidden;
-  background-color: cyan;
+  background-color: orangered;
 }
 
 /* Style the topnav links */
 .topnav a {
   float: left;
   display: block;
-  color: #f2f2f2;
+  color: orangered;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -202,8 +202,8 @@ body {
 
 /* Change color on hover */
 .topnav a:hover {
-  background-color: darkgray;
-  color: black;
+  background-color: orangered;
+  color: orangered;
 }
 
 /* Create two unequal columns that floats next to each other */
